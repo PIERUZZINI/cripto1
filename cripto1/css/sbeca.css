@@ -1,0 +1,19 @@
+body{
+	font-family: sans-serif;
+	background: #34495e;
+}
+.logo{
+	width: 100px;
+	height: 100px;
+	top: 50px;
+}
+h1{
+	color: white;
+	text-align: center;
+}
+div{
+	color: white;
+}
+#tabla{
+	text-align: center;
+}
